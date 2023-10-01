@@ -96,8 +96,3 @@ li.delete i {
     border-radius: 5px;
 
 }
-
-.newToDo:focus {
-    outline: none;
-    box-shadow: 5px 5px 15px #bbb;
-}
